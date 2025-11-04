@@ -1,0 +1,12 @@
+streamlit>=1.25.0
+pillow
+numpy
+pandas
+matplotlib
+scikit-learn
+torch>=1.10.0 # if you use a PyTorch model
+torchvision
+onnxruntime # if you want ONNX support
+opencv-python
+plotly
+ultralytics
