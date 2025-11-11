@@ -161,9 +161,9 @@ Otherwise, it is marked **`empty`**.
 
 ## 👩‍💻 Authors
 
-- Jeremiah Daniel Regalario
-- Isaiah John Mariano
-- Meluisa Montealto
+- [Jeremiah Daniel Regalario](https://github.com/jeremiahdanielregalario)
+- [Isaiah John Mariano](https://github.com/ice-leo)
+- [Meluisa Montealto](https://github.com/melmontealto)
 
 ----
 
