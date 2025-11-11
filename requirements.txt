@@ -7,6 +7,6 @@ scikit-learn
 torch>=1.10.0 # if you use a PyTorch model
 torchvision
 onnxruntime # if you want ONNX support
-opencv-python
+opencv-python-headless
 plotly
 ultralytics
